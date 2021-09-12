@@ -3,7 +3,7 @@
 
 import 'dart:convert';
 
-import 'package:apiproject1demo/LoginApiResponse.dart';
+import 'package:apiproject1demo/Services/LoginApiResponse.dart';
 import 'package:http/http.dart' as http;
 
 class ApiServices{
